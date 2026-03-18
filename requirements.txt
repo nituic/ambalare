@@ -10,4 +10,4 @@ datetime
 streamlit_authenticator
 numpy
 openpyxl
-streamlit_authenticator as stauth
+streamlit_authenticator
