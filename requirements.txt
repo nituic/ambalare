@@ -1,13 +1,5 @@
 streamlit
-psycopg2-binary
 pandas
-Packer
-Bin
-Item
-math
-FPDF
-datetime
-streamlit_authenticator
-numpy
-openpyxl
-streamlit_authenticator
+psycopg2-binary
+streamlit-authenticator
+py3dbp
